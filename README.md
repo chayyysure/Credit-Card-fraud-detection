@@ -34,5 +34,5 @@ It contains **284,807 transactions** with **492 frauds (0.172%)** recorded over 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/credit_card_fraud_detection.git
-   cd credit_card_fraud_detection
+   git clone https://github.com/chayyysure/Credit-Card-fraud-detection.git
+   cd Credit-Card-fraud-detection
